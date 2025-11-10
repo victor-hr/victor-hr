@@ -1,5 +1,5 @@
 <h1 align="center">Hello there.</h1>
-<h3 align="center">I'm Victor, Staff Software Engineer and Tech Advisor.
+<h3 align="center">I'm Victor, Tech Advisor and Software Engineer.
 <br/><br/>
 More than a decade driving digital transformation across financial, banking, agribusiness, and mobility sectors. I architect and deliver high-performance, scalable solutions while leading cross-functional technical teams from MVP to enterprise scale.
 <br/><br/>
