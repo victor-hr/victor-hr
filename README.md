@@ -8,8 +8,6 @@ Xamarin certified mobile specialist, experienced in React Native, with Software 
 Core expertise: SDLC implementation, software architecture and facilitating digital transformation. I serve as the strategic technology focal point, ensuring operational excellence across all technical initiatives.</h3>
 <br/><br/>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=victor-hr&theme=dark" alt="victor" /></p>
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/victor-hrodrigues" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victor-hr" height="30" width="30" target="_blank" /></a>
