@@ -1,11 +1,14 @@
 <h1 align="center">Hello there.</h1>
 <h3 align="center">I'm Victor, Tech Advisor and Software Engineer.
 <br/><br/>
-More than a decade driving digital transformation across financial, banking, agribusiness, and mobility sectors. I architect and deliver high-performance, scalable solutions while leading cross-functional technical teams from MVP to enterprise scale.
+With over a decade driving digital transformation across financial, banking, agribusiness, and mobility sectors, I partner with companies to bridge the gap between technology and business outcomes — helping leadership teams make smarter technical decisions, build better software, and run more efficient engineering operations.  
+My work spans the full technology lifecycle: from defining architecture and cloud infrastructure (AWS, Azure, Oracle) to structuring SDLC processes, leading engineering teams, and setting product roadmaps with clear ROI focus — from MVP to enterprise scale.
 <br/><br/>
-Xamarin certified mobile specialist, experienced in React Native, with Software Engineering background from PUC-MG. I combine strategic technology leadership with hands-on implementation, optimizing business outcomes through lean agile methodologies, aligning technology with the business needs.
+Tools I use to help my clients: Agile · Scrum · Kanban · C# · TypeScript · Java · PHP · Xamarin · React Native · AWS · Azure · Oracle · AI Engineering · Cybersecurity
 <br/><br/>
-Core expertise: SDLC implementation, software architecture and facilitating digital transformation. I serve as the strategic technology focal point, ensuring operational excellence across all technical initiatives.</h3>
+Xamarin Certified Mobile Developer and extensive React Native experience — mobile is a core part of how I help clients build and scale digital products, with Software Engineering background from PUC-MG.
+<br/><br/>
+Whether you need a Tech Advisor, or a Software Engineer, I help your company move faster, with less risk.</h3>
 <br/><br/>
 
 <h3 align="center">Connect with me:</h3>
