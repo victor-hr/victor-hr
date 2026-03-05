@@ -1,5 +1,5 @@
 <h1 align="center">Hello there.</h1>
-<h3 align="center">I'm Victor, Tech Advisor and Software Engineer.
+<h3 align="center">I'm Victor, Software Engineer.
 <br/><br/>
 With over a decade driving digital transformation across financial, banking, agribusiness, and mobility sectors, I partner with companies to bridge the gap between technology and business outcomes — helping leadership teams make smarter technical decisions, build better software, and run more efficient engineering operations.  
 My work spans the full technology lifecycle: from defining architecture and cloud infrastructure (AWS, Azure, Oracle) to structuring SDLC processes, leading engineering teams, and setting product roadmaps with clear ROI focus — from MVP to enterprise scale.
@@ -8,7 +8,7 @@ Tools I use to help my clients: Agile · Scrum · Kanban · C# · TypeScript · 
 <br/><br/>
 Xamarin Certified Mobile Developer and extensive React Native experience — mobile is a core part of how I help clients build and scale digital products, with Software Engineering background from PUC-MG.
 <br/><br/>
-Whether you need a Tech Advisor, or a Software Engineer, I help your company move faster, with less risk.</h3>
+Whether you need Software Engineering or Tech Advisory, I help your company move faster, with less risk.</h3>
 <br/><br/>
 
 <h3 align="center">Connect with me:</h3>
