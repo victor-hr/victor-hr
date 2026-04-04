@@ -1,13 +1,18 @@
 <h1 align="center">Hello there.</h1>
-<h3 align="center">I'm Victor, Tech Advisor.<br/>
-I advise companies on how to make the right technology decisions.
+<h3 align="center">I'm Victor, Software Engineer.<br/>
+I build technology that drives real business outcomes.
 <br/><br/>
-With over a decade of experience driving digital transformation across the financial, banking, agribusiness, and mobility sectors, I work with leadership teams to align technology strategy with business outcomes — helping organizations build better software, scale engineering teams, and operate more efficient technology organizations.  
+Over a decade of experience in engineering and delivering software solutions across fintechs, banks and mobility companies, working hands-on to turn complex ideas into scalable, reliable products.  
+My focus is on building systems that perform in the real world: from MVPs to enterprise-grade platforms.  
 My experience spans the full technology lifecycle: defining architecture and cloud infrastructure (AWS, Azure, Oracle), structuring SDLC processes, leading engineering teams, and shaping product roadmaps with clear ROI focus — from MVP to enterprise scale.
 <br/><br/>
-Mobile platforms are a core part of how I help companies build and scale digital products. I am a Xamarin Certified Mobile Developer with extensive React Native experience, supported by a Software Engineering background from PUC-MG.
+My experience spans the full software lifecycle. I’ve architected cloud-native systems (AWS, Azure, Oracle), implemented efficient SDLC processes, and led engineering efforts to ship high-impact products. I care deeply about writing quality software, enabling strong engineering teams, and creating technology that scales without unnecessary complexity.
 <br/><br/>
-Whether advising on software engineering strategy or supporting critical technology initiatives, I help companies move faster while reducing risk.
+Mobile development is a core part of what I build. As a Xamarin Certified Mobile Developer with strong experience in React Native, I’ve developed and scaled mobile applications used in production environments, always balancing performance, usability, and maintainability.
+<br/><br/>
+I have a Software Engineering background from PUC-MG and a practical, delivery-driven mindset. I enjoy owning problems end-to-end, working closely with product and business stakeholders, and building solutions that make a measurable difference.
+<br/><br/>
+I’m driven by execution, continuous improvement, and the challenge of building things that matter.
 <br/><br/>
 
 <h3 align="center">Connect with me:</h3>
