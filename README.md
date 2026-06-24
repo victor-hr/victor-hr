@@ -6,8 +6,6 @@ Over a decade of experience in engineering and delivering software solutions acr
 My focus is on building systems that perform in the real world: from MVPs to enterprise-grade platforms.  
 My experience spans the full technology lifecycle: defining architecture and cloud infrastructure (AWS, Azure, Oracle), structuring SDLC processes, leading engineering teams, and shaping product roadmaps with clear ROI focus — from MVP to enterprise scale.
 <br/><br/>
-My experience spans the full software lifecycle. I’ve architected cloud-native systems (AWS, Azure, Oracle), implemented efficient SDLC processes, and led engineering efforts to ship high-impact products. I care deeply about writing quality software, enabling strong engineering teams, and creating technology that scales without unnecessary complexity.
-<br/><br/>
 Mobile development is a core part of what I build. As a Xamarin Certified Mobile Developer with strong experience in React Native, I’ve developed and scaled mobile applications used in production environments, always balancing performance, usability, and maintainability.
 <br/><br/>
 I have a Software Engineering background from PUC-MG and a practical, delivery-driven mindset. I enjoy owning problems end-to-end, working closely with product and business stakeholders, and building solutions that make a measurable difference.
