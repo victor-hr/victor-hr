@@ -15,9 +15,11 @@ I have a Software Engineering background from PUC-MG and a practical, delivery-d
 I’m driven by execution, continuous improvement, and the challenge of building things that matter.
 <br/><br/>
 
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=victor-hr&theme=dark" alt="vic" /></p>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/victor-hrodrigues" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victor-hr" height="30" width="30" target="_blank" /></a>
+<a href="https://linkedin.com/in/victor-hrodrigues" target="_blank"><img align="center" src="https://images.icon-icons.com/3398/PNG/512/square_linkedin_logo_icon_214718.png" alt="victor-hr" height="30" width="30" target="_blank" /></a>
 </p>
 
 <div align="center"><br/>
