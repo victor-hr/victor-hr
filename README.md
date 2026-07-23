@@ -1,7 +1,6 @@
 <h1 align="center">Hello there.</h1>
-<h3 align="center">I'm Victor, Software Engineer.<br/>
-I enable engineering teams to deliver business outcomes through architecture, leadership
-and technology.
+<h3 align="center">I'm Victor.<br/>
+I enable engineering teams to deliver business outcomes through architecture, leadership and technology.
 <br/><br/>
 Over a decade of experience in engineering and delivering software solutions across fintechs, banks and mobility companies, working hands-on to turn complex ideas into scalable, reliable products.  
 My focus is on building systems that perform in the real world: from MVPs to enterprise-grade platforms.  
