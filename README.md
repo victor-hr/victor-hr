@@ -2,15 +2,12 @@
 <h3 align="center">I'm Victor.<br/>
 I enable engineering teams to deliver business outcomes through architecture, leadership and technology.
 <br/><br/>
-Over a decade of experience in engineering and delivering software solutions across fintechs, banks and mobility companies, working hands-on to turn complex ideas into scalable, reliable products.  
-My focus is on building systems that perform in the real world: from MVPs to enterprise-grade platforms.  
-My experience spans the full technology lifecycle: defining architecture and cloud infrastructure (AWS, Azure, Oracle), structuring SDLC processes, leading engineering teams, and shaping product roadmaps with clear ROI focus — from MVP to enterprise scale.
+Engineering Manager with over a decade of experience building and scaling software products globally across fintech, banking, mobility, and consulting services.
+Over the last four years, I've led engineering teams, driving technical strategy, developing engineers, and aligning technology decisions with business goals. I enjoy building high-performing teams, fostering engineering culture, and creating environments where people can grow while delivering measurable business outcomes.
 <br/><br/>
-Mobile development is a core part of what I build. As a Xamarin Certified Mobile Developer with strong experience in React Native, I’ve developed and scaled mobile applications used in production environments, always balancing performance, usability, and maintainability.
+My background as a Software Engineer enables me to contribute to architectural decisions, cloud strategy, software quality, and scalable systems while maintaining a pragmatic, delivery-focused mindset. I've also served as a Tech Advisor for international companies, helping shape technology strategy in multiple environments.
 <br/><br/>
-I have a Software Engineering background from PUC-MG and a practical, delivery-driven mindset. I enjoy owning problems end-to-end, working closely with product and business stakeholders, and building solutions that make a measurable difference.
-<br/><br/>
-I’m driven by execution, continuous improvement, and the challenge of building things that matter.
+I'm driven by the connection of engineering, product, and business, leading cross-functional initiatives, and building organizations that scale through technology, people, and continuous improvement.
 <br/><br/>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=victor-hr&theme=dark" alt="vic" /></p>
