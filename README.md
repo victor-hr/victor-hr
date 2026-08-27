@@ -5,7 +5,7 @@ I enable engineering teams to deliver business outcomes through architecture, le
 Engineering Manager with over a decade of experience building and scaling software products globally across fintech, banking, mobility, and consulting services.
 Over the last four years, I've led engineering teams, driving technical strategy, developing engineers, and aligning technology decisions with business goals. I enjoy building high-performing teams, fostering engineering culture, and creating environments where people can grow while delivering measurable business outcomes.
 <br/><br/>
-My background as a Software Engineer enables me to contribute to architectural decisions, cloud strategy, software quality, and scalable systems while maintaining a pragmatic, delivery-focused mindset. I've also served as a Tech Advisor for international companies, helping shape technology strategy in multiple environments.
+My background as a Software Engineer enables me to contribute to architectural decisions, cloud strategy, software quality, and scalable systems while maintaining a pragmatic, delivery-focused mindset.
 <br/><br/>
 I'm driven by the connection of engineering, product, and business, leading cross-functional initiatives, and building organizations that scale through technology, people, and continuous improvement.
 <br/><br/>
