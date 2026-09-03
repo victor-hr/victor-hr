@@ -1,13 +1,11 @@
 <h1 align="center">Hello there.</h1>
 <h3 align="center">I'm Victor.<br/>
-I enable engineering teams to deliver business outcomes through architecture, leadership and technology.
+I deliver business outcomes through architecture, leadership and technology.
 <br/><br/>
-Engineering Manager with over a decade of experience building and scaling software products globally across fintech, banking, mobility, and consulting services.
-Over the last four years, I've led engineering teams, driving technical strategy, developing engineers, and aligning technology decisions with business goals. I enjoy building high-performing teams, fostering engineering culture, and creating environments where people can grow while delivering measurable business outcomes.
+Software Engineer with over a decade of experience building and scaling software products globally across fintech, banking, mobility, and consulting services.
+I lead engineering teams, driving technical strategy, developing engineers, aligning technology decisions with business goals. I contribute to architectural decisions, cloud strategy, software quality, and scalable systems while maintaining a pragmatic, delivery-focused mindset.
 <br/><br/>
-My background as a Software Engineer enables me to contribute to architectural decisions, cloud strategy, software quality, and scalable systems while maintaining a pragmatic, delivery-focused mindset.
-<br/><br/>
-I'm driven by the connection of engineering, product, and business, leading cross-functional initiatives, and building organizations that scale through technology, people, and continuous improvement.
+I'm driven by the challenge of turning complex engineering problems into simple, scalable solutions, through hands-on engineering and technical leadership.
 <br/><br/>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=victor-hr&theme=dark" alt="vic" /></p>
